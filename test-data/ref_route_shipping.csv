@@ -1,0 +1,3 @@
+Project,Route Code,Route Name,Composition,Category,Karoseri,Capacity,Liq Vol/FB,Shipping Volume (pending contract),Heijunka Interval,Notes
+ADM-SAP,RT-UI-101,UI Shipping Route One,"PL-CBT, S003, S004, ADM-SNT",CDD,Box,22,3,4.5,120,sample with shipping volume
+ADM-SAP,RT-UI-102,UI Shipping Route Two,"PL-CBT, S005, S006, ADM-SNT",Fuso,Box,32,5,,150,shipping volume left empty

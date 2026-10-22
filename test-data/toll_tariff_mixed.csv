@@ -1,0 +1,7 @@
+﻿Entry Gate,Exit Gate,Golongan,Tariff,Effective Date,Source,Reference
+Cikarang Utama,Karawang Barat,Gol II,Rp 66.000,2026-12-01,BPJT,SK 15/2026
+Gerbang Fiktif,Karawang Barat,Gol II,50000,2026-12-01,BPJT,
+Cibitung,Cibitung,Gol I,10000,2026-12-01,BPJT,
+Cibitung,Sunter,Gol 6,10000,2026-12-01,BPJT,
+Cibitung,Sunter,Gol II,abc,2026-12-01,BPJT,
+Cikarang Utama,Karawang Barat,Gol II,62000,2026-10-01,BPJT,duplicate of existing

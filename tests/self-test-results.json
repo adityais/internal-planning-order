@@ -1,0 +1,956 @@
+[
+ {
+  "area": "Load",
+  "name": "index.html renders, no console errors",
+  "pass": true,
+  "detail": "648 chars"
+ },
+ {
+  "area": "Load",
+  "name": "foundations.html renders, no console errors",
+  "pass": true,
+  "detail": "981 chars"
+ },
+ {
+  "area": "Load",
+  "name": "project-planning.html renders, no console errors",
+  "pass": true,
+  "detail": "1188 chars"
+ },
+ {
+  "area": "Load",
+  "name": "project-planning.html?id=PP-0012 renders, no console errors",
+  "pass": true,
+  "detail": "923 chars"
+ },
+ {
+  "area": "Load",
+  "name": "allocation.html renders, no console errors",
+  "pass": true,
+  "detail": "1854 chars"
+ },
+ {
+  "area": "Load",
+  "name": "allocation.html?project=ADM-SAP&tab=pool renders, no console errors",
+  "pass": true,
+  "detail": "1732 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-ref.html renders, no console errors",
+  "pass": true,
+  "detail": "1553 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-list.html renders, no console errors",
+  "pass": true,
+  "detail": "843 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-wizard.html renders, no console errors",
+  "pass": true,
+  "detail": "406 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-wizard.html?plan=MP-2026-0047&step=4 renders, no console errors",
+  "pass": true,
+  "detail": "978 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-wizard.html?plan=MP-2026-0050&step=6 renders, no console errors",
+  "pass": true,
+  "detail": "1553 chars"
+ },
+ {
+  "area": "Load",
+  "name": "milkrun-step5.html?plan=MP-2026-0047 renders, no console errors",
+  "pass": true,
+  "detail": "9965 chars"
+ },
+ {
+  "area": "Load",
+  "name": "trips.html renders, no console errors",
+  "pass": true,
+  "detail": "776 chars"
+ },
+ {
+  "area": "Load",
+  "name": "trips.html?tab=h1 renders, no console errors",
+  "pass": true,
+  "detail": "1778 chars"
+ },
+ {
+  "area": "Load",
+  "name": "trips.html?tab=diff renders, no console errors",
+  "pass": true,
+  "detail": "653 chars"
+ },
+ {
+  "area": "Load",
+  "name": "readiness.html renders, no console errors",
+  "pass": true,
+  "detail": "18665 chars"
+ },
+ {
+  "area": "Load",
+  "name": "readiness.html?tab=requests renders, no console errors",
+  "pass": true,
+  "detail": "337 chars"
+ },
+ {
+  "area": "Load",
+  "name": "readiness.html?tab=reports renders, no console errors",
+  "pass": true,
+  "detail": "263 chars"
+ },
+ {
+  "area": "Load",
+  "name": "readiness.html?view=table renders, no console errors",
+  "pass": true,
+  "detail": "2583 chars"
+ },
+ {
+  "area": "Load",
+  "name": "readiness-tablet.html renders, no console errors",
+  "pass": true,
+  "detail": "2020 chars"
+ },
+ {
+  "area": "Load",
+  "name": "exceptions.html?id=EXC-2026-0019 renders, no console errors",
+  "pass": true,
+  "detail": "286 chars"
+ },
+ {
+  "area": "Load",
+  "name": "exceptions-phone.html renders, no console errors",
+  "pass": true,
+  "detail": "242 chars"
+ },
+ {
+  "area": "Load",
+  "name": "capacity.html renders, no console errors",
+  "pass": true,
+  "detail": "965 chars"
+ },
+ {
+  "area": "Load",
+  "name": "dispatch.html renders, no console errors",
+  "pass": true,
+  "detail": "8075 chars"
+ },
+ {
+  "area": "Load",
+  "name": "order-inbox.html renders, no console errors",
+  "pass": true,
+  "detail": "1348 chars"
+ },
+ {
+  "area": "Load",
+  "name": "order-detail.html?id=ORD-20261015-0106 renders, no console errors",
+  "pass": true,
+  "detail": "1392 chars"
+ },
+ {
+  "area": "Load",
+  "name": "dealing.html renders, no console errors",
+  "pass": true,
+  "detail": "537 chars"
+ },
+ {
+  "area": "Load",
+  "name": "assignment.html renders, no console errors",
+  "pass": true,
+  "detail": "1452 chars"
+ },
+ {
+  "area": "Load",
+  "name": "assignment.html?id=ORD-20261015-0119 renders, no console errors",
+  "pass": true,
+  "detail": "696 chars"
+ },
+ {
+  "area": "Load",
+  "name": "convert.html renders, no console errors",
+  "pass": true,
+  "detail": "894 chars"
+ },
+ {
+  "area": "Load",
+  "name": "monitoring.html renders, no console errors",
+  "pass": true,
+  "detail": "1542 chars"
+ },
+ {
+  "area": "Load",
+  "name": "monitoring.html?tab=alerts renders, no console errors",
+  "pass": true,
+  "detail": "374 chars"
+ },
+ {
+  "area": "Load",
+  "name": "admin.html#params renders, no console errors",
+  "pass": true,
+  "detail": "824 chars"
+ },
+ {
+  "area": "Load",
+  "name": "admin.html#templates renders, no console errors",
+  "pass": true,
+  "detail": "810 chars"
+ },
+ {
+  "area": "Load",
+  "name": "tolltariff.html renders, no console errors",
+  "pass": true,
+  "detail": "1670 chars"
+ },
+ {
+  "area": "Load",
+  "name": "not-available.html?m=Timeline renders, no console errors",
+  "pass": true,
+  "detail": "35 chars"
+ },
+ {
+  "area": "Persona",
+  "name": "View as pm trims sidebar",
+  "pass": true,
+  "detail": "9 items"
+ },
+ {
+  "area": "Persona",
+  "name": "View as opslog trims sidebar",
+  "pass": true,
+  "detail": "2 items"
+ },
+ {
+  "area": "Persona",
+  "name": "View as fieldops trims sidebar",
+  "pass": true,
+  "detail": "2 items, tablet rail"
+ },
+ {
+  "area": "Persona",
+  "name": "View as ccr trims sidebar",
+  "pass": true,
+  "detail": "3 items"
+ },
+ {
+  "area": "Persona",
+  "name": "View as vmdm trims sidebar",
+  "pass": true,
+  "detail": "1 items"
+ },
+ {
+  "area": "Persona",
+  "name": "View as supply trims sidebar",
+  "pass": true,
+  "detail": "2 items"
+ },
+ {
+  "area": "Persona",
+  "name": "PM has no Publish on Dispatch",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Persona",
+  "name": "Field Ops tablet shows no amounts",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Engine",
+  "name": "Chaining engine unit tests (30)",
+  "pass": true,
+  "detail": "30 / 30"
+ },
+ {
+  "area": "Import",
+  "name": "orders_valid.csv: 20 valid, 0 errors",
+  "pass": true,
+  "detail": "20 valid, 0 errors"
+ },
+ {
+  "area": "Import",
+  "name": "Valid rows appended to the store",
+  "pass": true,
+  "detail": "20 added"
+ },
+ {
+  "area": "Import",
+  "name": "orders_mixed.csv: valid + per-row errors, blank row skipped, extra column ignored",
+  "pass": true,
+  "detail": "2 valid, 8 errors (Required, Invalid date, Use HH:MM, Location not in Master Data, Use CDE / CDD / Fuso / Tronton / Blindvan, Must be at least 0.1, Duplicate, Customer Project not found)"
+ },
+ {
+  "area": "Import",
+  "name": "orders_wrong_headers.csv: missing headers listed",
+  "pass": true,
+  "detail": "Customer Project, Pickup Date, Pickup Time, Origin, Destination, Unit Category, Body Type, Qty, Volume m3"
+ },
+ {
+  "area": "Import",
+  "name": "orders_empty.csv: no data rows",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Import",
+  "name": "orders_1000_rows.csv: 1000 rows validated",
+  "pass": true,
+  "detail": "360 valid, 640 errors, 100 ms"
+ },
+ {
+  "area": "Import",
+  "name": "orders_idr_dates.xlsx: IDR, dd/mm/yyyy, \"19 Oct 2026\", Excel serial dates and times",
+  "pass": true,
+  "detail": "[[\"2026-10-18\",\"07:30\",9.5,45250000],[\"2026-10-19\",\"08:00\",12.5,47500000],[\"2026-10-20\",\"09:00\",6,1250000]]"
+ },
+ {
+  "area": "Import",
+  "name": "toll_tariff_valid.csv: 4 valid",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Import",
+  "name": "toll_tariff_mixed.csv: 1 valid, 5 errors (unknown gate, same gate, bad Gol, bad tariff, duplicate)",
+  "pass": true,
+  "detail": "Not found in Master Data, Not found in Master Data, Use Gol I / Gol II / Gol III / Gol IV / Gol V, Not a number, Duplicate"
+ },
+ {
+  "area": "Import",
+  "name": "toll_tariff_wrong_headers.csv rejected",
+  "pass": true,
+  "detail": "Entry Gate, Exit Gate, Golongan, Tariff, Effective Date"
+ },
+ {
+  "area": "Import",
+  "name": "milkrun_part_valid.csv: 30 valid",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Import",
+  "name": "milkrun_part_mixed.csv: errors block (all or nothing)",
+  "pass": true,
+  "detail": "Not found in Master Data, Must be at least 0.001, Duplicate, Required, Not a number"
+ },
+ {
+  "area": "Import",
+  "name": "milkrun_part_wrong_headers.csv rejected",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Import",
+  "name": "Volume Matrix (9 sheets) parses clean",
+  "pass": true,
+  "detail": "22 rows"
+ },
+ {
+  "area": "Import",
+  "name": "Volume Matrix errors: non-member supplier, Vol/Day 0, start outside period, unknown sheet",
+  "pass": true,
+  "detail": "Not a member of R01 | Must be more than 0 | Outside period | Not a Route Group in the plan Reference Snapshot"
+ },
+ {
+  "area": "Import",
+  "name": "Order data (variant B): unknown model and Qty 0 flagged",
+  "pass": true,
+  "detail": "Model not in BOM (Reference Snapshot), Must be at least 1"
+ },
+ {
+  "area": "Export",
+  "name": "Export xlsx re-imports cleanly (round trip)",
+  "pass": true,
+  "detail": "15 of 15"
+ },
+ {
+  "area": "Export",
+  "name": "Re-import into the same store flags duplicates",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Sync",
+  "name": "Imported order visible in Order Monitoring",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Sync",
+  "name": "Imported order reached Assignment / Pending Dealing after dealing check",
+  "pass": true,
+  "detail": "Ready to Assign"
+ },
+ {
+  "area": "Sync",
+  "name": "Trip change visible on H-1 Board after reload (localStorage)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Persist",
+  "name": "Change persisted in localStorage",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "Tenko 150/96 => Unfit => Not Ready with lock",
+  "pass": true,
+  "detail": "notready DRV-UNFIT"
+ },
+ {
+  "area": "Readiness",
+  "name": "Pending exception => Exception Requested",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "Reject without comment is refused",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "Approve => With Exception",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "Undecided exception escalates to OpsLog Dept Head after deadline",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Waterfall",
+  "name": "No response after 60 min => next vendor Sent automatically",
+  "pass": true,
+  "detail": "PT Sinar Jaya Logistik -> PT Cahaya Transport"
+ },
+ {
+  "area": "Waterfall",
+  "name": "Accept auto-assigns the vendor",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Dispatch",
+  "name": "8 + 10 m3 on CDD 22 m3 => 82%",
+  "pass": true,
+  "detail": "82%"
+ },
+ {
+  "area": "Docs",
+  "name": "PUTS PDF generated (real %PDF file)",
+  "pass": true,
+  "detail": "9861 bytes"
+ },
+ {
+  "area": "Docs",
+  "name": "Superseded copy carries SUPERSEDED watermark",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Docs",
+  "name": "ZIP batch is a real zip (PK header)",
+  "pass": true,
+  "detail": "20011 bytes"
+ },
+ {
+  "area": "Milkrun",
+  "name": "Publish generates PUTS/CCS/TI/DCS for the plan",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Toll",
+  "name": "New effective date row is used from its date on",
+  "pass": true,
+  "detail": "58000 -> 61000"
+ },
+ {
+  "area": "Keyboard",
+  "name": "Dialog takes focus, Esc closes, focus returns to opener",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "A11y",
+  "name": "Icon buttons carry aria-label (Project Planning)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Smoke",
+  "name": "Assignment: Blast -> Assigning, Record response Accept -> Assigned",
+  "pass": true,
+  "detail": "Assigning -> Assigned"
+ },
+ {
+  "area": "Smoke",
+  "name": "Assignment: plate format checked, Nopol & Driver creates a vendor trip",
+  "pass": true,
+  "detail": "DT-20261015-0013"
+ },
+ {
+  "area": "Sync",
+  "name": "Vendor trip appears in the Dispatch vendor lane",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Smoke",
+  "name": "Convert blocked while vendor not confirmed",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Smoke",
+  "name": "Readiness vendor confirmation -> Ready",
+  "pass": true,
+  "detail": "ready"
+ },
+ {
+  "area": "Smoke",
+  "name": "Convert creates trip number and SPPB + SPK",
+  "pass": true,
+  "detail": "TRP-20261015-0013 SPK,SPPB"
+ },
+ {
+  "area": "Sync",
+  "name": "Order status Converted after Convert",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Smoke",
+  "name": "Monitoring: Path filter, converted order listed, Alerts table, Export dialog",
+  "pass": true,
+  "detail": "{\"allVendor\":true,\"has\":true,\"n\":9,\"alerts\":3,\"exp\":true}"
+ },
+ {
+  "area": "Smoke",
+  "name": "Toll Tariff Add (UI): duplicate date refused, new row used by UJ lookup from its date",
+  "pass": true,
+  "detail": "{\"dup\":true,\"t\":63500}"
+ },
+ {
+  "area": "Smoke",
+  "name": "Planning Parameters: \"Max 12\" error, valid value saved",
+  "pass": true,
+  "detail": "{\"err\":\"h\\nMax 12\",\"saved\":11}"
+ },
+ {
+  "area": "Smoke",
+  "name": "Template upload: unknown placeholder blocks Save, clean file enables it",
+  "pass": true,
+  "detail": "{\"template_puts_bad_placeholder.xlsx\":true,\"template_puts_ok.xlsx\":false}"
+ },
+ {
+  "area": "Launcher",
+  "name": "Module map with live counts and Reset demo data",
+  "pass": true,
+  "detail": "20 links"
+ },
+ {
+  "area": "Launcher",
+  "name": "Every launcher link resolves",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Seed",
+  "name": "Order IDs identical after a reseed (deterministic ?id= links)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Seed",
+  "name": "Assignment rows vary: routes, units, quantities",
+  "pass": true,
+  "detail": "8 routes"
+ },
+ {
+  "area": "SLA",
+  "name": "No seeded open order starts SLA breached; vendor SLA follows the live offer",
+  "pass": true,
+  "detail": "24,23,22,52,54,56,27,26,25,24"
+ },
+ {
+  "area": "Audit",
+  "name": "Assignment audit drawer lists seeded waterfall events",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "Planner reaches Request exception (DT-20261014-0008), empty form is refused",
+  "pass": true,
+  "detail": "{\"n\":1,\"err\":2}"
+ },
+ {
+  "area": "Readiness",
+  "name": "PM reject without comment shows the error and keeps the request open",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Readiness",
+  "name": "After the deadline the PM can no longer decide (escalated)",
+  "pass": true,
+  "detail": "{\"btn\":0,\"txt\":true}"
+ },
+ {
+  "area": "Readiness",
+  "name": "OpsLog Dept Head sees Approve as fallback",
+  "pass": true,
+  "detail": "Reject/Approve as fallback"
+ },
+ {
+  "area": "Capacity",
+  "name": "Resource Request dialog validates and creates a request",
+  "pass": true,
+  "detail": "{\"err\":1,\"added\":1}"
+ },
+ {
+  "area": "Monitoring",
+  "name": "Board Vendor chip opens the Vendor offers drawer (same as List)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "Toll",
+  "name": "Toll Tariff: no \"Master Data\" / \"CR-D\" text, every row has a Reference",
+  "pass": true,
+  "detail": "{\"md\":false,\"dash\":0}"
+ },
+ {
+  "area": "QA-001",
+  "name": "Number formats: \"9,5\"=9.5, \"9.5\"=9.5, \"1.250.000\"=1250000, \"1.250,5\"=1250.5, IDR",
+  "pass": true,
+  "detail": "[9.5,1.7,9.5,1250,1250000,1250.5,45000000,12]"
+ },
+ {
+  "area": "QA-001",
+  "name": "CSV import keeps decimal comma (9,5 m3 -> 9.5, 1,7 t -> 1.7)",
+  "pass": true,
+  "detail": "[[9.5,1.7,45000000]]"
+ },
+ {
+  "area": "QA-001",
+  "name": "orders_mixed.csv valid rows keep decimals",
+  "pass": true,
+  "detail": "[9.5,4]"
+ },
+ {
+  "area": "QA-002",
+  "name": "Template upload rejects a .pdf inline, Save disabled, active template kept",
+  "pass": true,
+  "detail": "{\"dis\":true,\"msg\":true,\"same\":true}"
+ },
+ {
+  "area": "QA-005",
+  "name": "Double click on Submit creates one order",
+  "pass": true,
+  "detail": "1 added"
+ },
+ {
+  "area": "QA-001",
+  "name": "New order form \"9,5\" m3 stored as 9.5",
+  "pass": true,
+  "detail": "9.5"
+ },
+ {
+  "area": "QA-003",
+  "name": "Order Detail shows the project chosen in New order (not \"Select\")",
+  "pass": true,
+  "detail": "Boga Rasa Dedicated Cikarang"
+ },
+ {
+  "area": "QA-003",
+  "name": "One resolver: planning code, Master Data id and name give the same project",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-004",
+  "name": "Second plan for ADM-SAP Nov 2026 is blocked: MP-2026-0047 already covers it",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-004",
+  "name": "Revision of the same plan is not blocked; no seeded plan violates the rule",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-004",
+  "name": "Publish of a duplicate plan is refused",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-008",
+  "name": "Generate: From later than To shows an inline error and disables Generate",
+  "pass": true,
+  "detail": "{\"err\":true,\"dis\":true}"
+ },
+ {
+  "area": "QA-009",
+  "name": "Partial acceptance banner says \"1 of 3 units covered\"",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-025",
+  "name": "Project Planning under Field Ops: no console error",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-007",
+  "name": "No horizontal table scroll at 1440 (Inbox, Monitoring, Assignment, Milkrun list)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-N01",
+  "name": "New plan keeps the chosen project and start-end date range across re-render; ADM-SAP Nov still warns that MP-2026-0047 will be Closed",
+  "pass": true,
+  "detail": "{\"proj\":\"TAM-PIO Karawang\",\"start\":\"2026-12-01\",\"end\":\"2026-12-31\",\"block\":true,\"end2\":\"2026-11-30\",\"label\":\"1–30 Nov 2026 · 21 operating days\"}"
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning hidden for vmdm (sidebar + direct URL), no console error",
+  "pass": true,
+  "detail": "{\"denied\":true,\"link\":false} "
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning hidden for ccr (sidebar + direct URL), no console error",
+  "pass": true,
+  "detail": "{\"denied\":true,\"link\":false} "
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning hidden for supply (sidebar + direct URL), no console error",
+  "pass": true,
+  "detail": "{\"denied\":true,\"link\":false} "
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning hidden for fieldops (sidebar + direct URL), no console error",
+  "pass": true,
+  "detail": "{\"denied\":true,\"link\":false} "
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning visible for pm",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning visible for opslog",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-N03",
+  "name": "Project Planning visible for plannerlead",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-N02",
+  "name": "Template upload rejects corrupt.xlsx (not a valid workbook), Save disabled",
+  "pass": true,
+  "detail": "{\"dis\":true,\"msg\":true,\"same\":true}"
+ },
+ {
+  "area": "QA-N02",
+  "name": "Template upload rejects empty_tpl.xlsx (has no {{placeholders}}), Save disabled",
+  "pass": true,
+  "detail": "{\"dis\":true,\"msg\":true,\"same\":true}"
+ },
+ {
+  "area": "QA-N04",
+  "name": "Skip dates: \"Other\" needs a note, skipped day shows the Skipped chip, Undo restores",
+  "pass": true,
+  "detail": "{\"noteErr\":true,\"skipped\":58,\"reason\":\"Other: Customer audit\",\"chip\":true,\"after\":0}"
+ },
+ {
+  "area": "QA-N05",
+  "name": "Step 5: typing the same Out Pool is not a Manual edit",
+  "pass": true,
+  "detail": "{\"same\":true,\"man\":false,\"cy\":1}"
+ },
+ {
+  "area": "QA-N05",
+  "name": "Out Pool +10 min moves the downstream stops and In pool of that cycle by 10 min",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-N10",
+  "name": "Excel numeric cell 1.234 stays 1.234; text cell \"1.234\" uses the Indonesian rule (1234)",
+  "pass": true,
+  "detail": "[[\"v\"],[1.234],[\"1.234\"]]"
+ },
+ {
+  "area": "QA-N08",
+  "name": "Resource Request refuses 9999 units",
+  "pass": true,
+  "detail": "{\"err\":true,\"added\":0}"
+ },
+ {
+  "area": "QA-N09",
+  "name": "Diff tab with a version id in the URL renders, no console error",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "area": "QA-P01",
+  "name": "Skipped calendar day stays inside the grid (.calday.skip is not the skip link), skip link class renamed",
+  "pass": true,
+  "detail": "{\"left\":750,\"link\":true}"
+ },
+ {
+  "area": "ADIT-3",
+  "name": "Resource Allocation: one Add unit button, Customer and Project as two selects",
+  "pass": true,
+  "detail": "{\"one\":true,\"cust\":true}"
+ },
+ {
+  "area": "ADIT-1/2",
+  "name": "Project Planning detail: no Consider Vendor tiles, Fulfillment Mode is a dropdown (Own Asset / Vendor / Mix)",
+  "pass": true,
+  "detail": "{\"noTiles\":true,\"mode\":true,\"opts\":[\"Select mode\",\"Own Asset\",\"Vendor\",\"Mix\"]}"
+ },
+ {
+  "area": "ADIT-4",
+  "name": "Project Planning list has separate Customer and Project columns",
+  "pass": true,
+  "detail": "{\"h\":[\"Status\",\"Plan\",\"Customer\",\"Project\",\"Type\",\"Mode\",\"PM\",\"Ready\",\"Valid until\",\"Action\"]}"
+ },
+ {
+  "area": "ADIT-2b-1",
+  "name": "Fulfillment Mode is a dropdown that saves on change (no Save/Cancel draft controls, no reason dialog, toast)",
+  "pass": true,
+  "detail": "{\"has\":true,\"opts\":[\"Select mode\",\"Own Asset\",\"Vendor\",\"Mix\"],\"noSave\":true,\"before\":\"Mix\",\"after\":\"Mix\",\"toast\":true,\"dlg\":false}"
+ },
+ {
+  "area": "ADIT-2b-2a",
+  "name": "Resource Allocation table has Ownership column, no horizontal overflow at 1440",
+  "pass": true,
+  "detail": "{\"col\":true,\"ovf\":0}"
+ },
+ {
+  "area": "ADIT-2b-2b",
+  "name": "Resource Allocation has no All Units tab (old ?tab=units just opens the page), no Needs replacement banner, and the allocation table shows Business Line",
+  "pass": true,
+  "detail": "{\"tabs\":false,\"allUnits\":false,\"biz\":true,\"repl\":false,\"ovf\":0}"
+ },
+ {
+  "area": "RA-A",
+  "name": "Requested Unit: 6 combinations render as one full-width row each (Category + Karoseri separate), with own gap and Request; one Add unit; no Filters applied wording",
+  "pass": true,
+  "detail": "{\"n\":6,\"listW\":1109,\"full\":true,\"chips\":true,\"combos\":[\"CDD Box\",\"CDD Wingbox\",\"CDE Box\",\"Fuso Box\",\"Fuso Wingbox\",\"Tronton Wingbox\"],\"gap\":true,\"req\":4,\"addU\":1,\"applied\":false}"
+ },
+ {
+  "area": "RR-A",
+  "name": "Resource Requests: no global toolbar; Status/Customer/Project/Category/Karoseri are free-text header filters, Request ID keeps a header search; status first, action last",
+  "pass": true,
+  "detail": "{\"hs\":[\"STATUS\",\"REQUEST\",\"CUSTOMER\",\"PROJECT\",\"CATEGORY\",\"KAROSERI\",\"QTY\",\"FROM - TO\",\"REQUESTED BY\",\"REQUESTED AT\",\"ACTION\"],\"filters\":[\"status\",\"id\",\"cust\",\"proj\",\"cat\",\"kar\",\"qty\",\"period\",\"by\",\"at\"],\"toolbar\":0,\"proj\":3,\"cnt\":\"3 requests - all projects\",\"statusSel\":\"INPUT\"}"
+ },
+ {
+  "area": "RR-A",
+  "name": "Resource Requests list stays cross-project and labels the scope",
+  "pass": true,
+  "detail": "3 projects / 3 requests - all projects"
+ },
+ {
+  "area": "RA-A",
+  "name": "Add unit popup lists only units nobody holds in the period and with the project Business Line; columns Plate / Business Line / Vendor / Category / Karoseri (no Status or Project)",
+  "pass": true,
+  "detail": "{\"hs\":[\"\",\"Plate No.\",\"Business Line\",\"Vendor\",\"Category\",\"Karoseri\"],\"n\":3,\"sameBiz\":true,\"free\":true,\"noStatusProject\":true,\"biz\":true,\"sub\":true}"
+ },
+ {
+  "area": "Scope 6",
+  "name": "Resource Allocation / Resource Requests use free-text header filters only (no select filters), no \"Refresh vehicles\" and no reject explanatory sentence",
+  "pass": true,
+  "detail": "rr / -1 / -1 / -1"
+ },
+ {
+  "area": "MR-B",
+  "name": "Milkrun Reference has one filter model (header filters with a single Project context) and no Batch column",
+  "pass": true,
+  "detail": "{\"q\":false,\"pf\":false,\"clr\":false,\"hf\":true,\"batch\":false}"
+ },
+ {
+  "area": "MR-C",
+  "name": "Calculated presents and filters as Draft with Open plan, never as a Resume step",
+  "pass": true,
+  "detail": "{\"has47\":true,\"status\":\"Draft\",\"open\":true,\"resume\":false,\"archN\":3,\"archClosed\":true}"
+ },
+ {
+  "area": "MR-C",
+  "name": "Archived shows the single Closed badge (no Superseded / Cancelled wording)",
+  "pass": true,
+  "detail": "3 rows"
+ },
+ {
+  "area": "MR-C",
+  "name": "Publish closes only same-Customer-Project overlapping Scheduled/Published plans (Draft, Calculated, future and other projects untouched)",
+  "pass": true,
+  "detail": "{\"closing\":[\"MP-TST-OVL\",\"MP-TST-PUB\"],\"pub\":true,\"ovl\":\"Closed\",\"pubx\":\"Closed\",\"fut\":\"Scheduled\",\"drf\":\"Draft\",\"cal\":\"Calculated\",\"oth\":\"Scheduled\"}"
+ },
+ {
+  "area": "MR-C",
+  "name": "Publish confirm lists exactly the plans it will close",
+  "pass": true,
+  "detail": "[\"MP-TST-OVL\",\"MP-TST-PUB\"]"
+ },
+ {
+  "area": "MR-C",
+  "name": "Step 4 cycles cannot go below 1 and the upper bound is derived from T8 (max shown per Route Group)",
+  "pass": true,
+  "detail": "{\"min\":true,\"cyc\":1,\"max\":\"More cycles (derived maximum 8)\",\"hint\":\"fits up to 8\"}"
+ },
+ {
+  "area": "MR-C",
+  "name": "Step 5 slot labels are route-local (the same label can appear on another Route Group) while the slot key is the physical slot: one unit / driver stays one slot across routes",
+  "pass": true,
+  "detail": "Unit A:9, Unit B:9, Unit C:9, Unit D:9, Unit E:9, Unit F:5, Unit G:2"
+ },
+ {
+  "area": "MR-C",
+  "name": "Seeded schedule has no physical unit/driver conflict, no duty > 12h and no rest < 8h",
+  "pass": true,
+  "detail": "{\"cycles\":58,\"runnable\":58,\"units\":35,\"unitsShort\":0,\"allocUnits\":40,\"drivers\":56,\"allocDrivers\":60,\"dutyBreaches\":0,\"restBreaches\":0,\"conflicts\":0,\"outside\":0,\"infeasibleRoutes\":[],\"manual\":0}"
+ },
+ {
+  "area": "MR-C",
+  "name": "Step 5 Route Toll Setup points to the Planning Toll Tariff master (tolltariff.html)",
+  "pass": true,
+  "detail": "{\"setup\":true,\"link\":2,\"help\":true}"
+ },
+ {
+  "area": "Copy",
+  "name": "No \"Reference v\", \"vundefined\" or \"Resume step\" strings in the Planning pages",
+  "pass": true,
+  "detail": ""
+ }
+]

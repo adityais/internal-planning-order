@@ -1,0 +1,7 @@
+Project,Route Group,Composition,Category,Karoseri,Capacity,Liq Vol/FB,Heijunka Interval,Notes
+ADM-SAP,Mixed Route One,"PL-CBT, S003, S004, ADM-SNT",CDD,Box,22,3,120,ok
+ADM-SAP,Mixed Route Two,"S003, S999, ADM-SNT",CDD,Box,22,3,120,unknown code
+ADM-SAP,Mixed Route Three,"S003, S004",CDD,Box,22,3,120,no customer at the end
+ADM-SAP,Mixed Route Four,"S003, ADM-SNT",Space,Box,22,3,120,bad category
+ADM-SAP,Mixed Route Five,"S003, ADM-SNT",CDD,Box,22,30,120,Liq Vol above capacity
+ADM-SAP,Bekasi - Cikarang,"S003, ADM-SNT",CDD,Box,22,3,120,duplicate of an existing route group

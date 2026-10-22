@@ -1,0 +1,6 @@
+﻿Part No,Part Name,Supplier,Supplier Code,Vendor Site,Dock,Part Category,Box m3,Cap per Box
+NP-80001,Panel A,PT Yutaka Manufacturing Indonesia,S002,Plant 1,Dock 1,Body,0.05,10
+NP-80002,Panel B,PT Supplier Baru,S099,Plant 1,Dock 1,Body,0.05,10
+NP-80003,Panel C,PT Gemala Kempa,S003,Plant 1,Dock 1,Body,0,10
+NP-80001,Panel A dup,PT Yutaka Manufacturing Indonesia,S002,Plant 1,Dock 1,Body,0.05,10
+,Panel E,PT Inti Ganda Perdana,S004,Plant 1,Dock 1,Body,0.05,x

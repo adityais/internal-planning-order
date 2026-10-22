@@ -1,0 +1,19 @@
+﻿Order Ref,Plan ID,Customer Name,Project Name,Delivery Start Date,Delivery Start Time,Location Type,Location,Address,City,Latitude,Longitude,Est. Arrival Date,Est. Arrival Time,Handling Time (min),No DO,Qty Unit,Unit Category,Karoseri,Tonase,Volume,Special Handling Note,Catatan Tambahan
+M1,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-17,18:00,Pick Up,XWH Sentul,,,,,2026-10-17,07:00,20,DO-1,1,CDD,Wingbox,4,9,,extra column
+M1,,,,,,Drop Off,DC Cikarang Dry Port,,,,,2026-10-17,12:00,20,,,,,,,,extra column
+M2,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-17,08:00,Pick Up,XWH Sentul,,,,,,,,,1,CDD,Wingbox,,,,
+M2,,,,,,Drop Off,DC Cikarang Dry Port,,,,,,,,,,,,,,,
+M3,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-17,09:00,Pick Up,XWH Sentul,,,,,2026-10-17,07:00,20,DO-1,1,CDD,Wingbox,4,9,,
+M3,,,,,,Drop Off,Lokasi Tidak Ada,,,,,2026-10-17,12:00,20,,,,,,,,
+M4,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-17,25:99,Pick Up,XWH Sentul,,,,,2026-10-17,07:00,20,DO-1,1,CDD,Wingbox,4,9,,
+M4,,,,,,Drop Off,DC Cikarang Dry Port,,,,,2026-10-17,12:00,20,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+M5,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-18,09:00,Pick Up,XWH Sentul,,,,,2026-10-18,07:00,20,DO-1,1,Roket,Wingbox,4,9,,
+M5,,,,,,Drop Off,DC Cikarang Dry Port,,,,,2026-10-18,12:00,20,,,,,,,,
+M6,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-18,10:00,Pick Up,XWH Sentul,,,,,2026-10-18,09:00,20,,,CDD,Wingbox,4,9,,
+M7,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2020-01-01,10:00,Pick Up,XWH Sentul,,,,,2020-01-01,07:00,20,DO-1,1,CDD,Wingbox,4,9,,
+M7,,,,,,Drop Off,DC Cikarang Dry Port,,,,,2020-01-01,12:00,20,,,,,,,,
+M8,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-18,11:00,Pick Up,XWH Sentul,,,,,2026-10-18,07:00,20,DO-1,1,CDD,Wingbox,4,9,,
+M8,,,,,,Drop Off,DC Cikarang Dry Port,,,,,2026-10-18,12:00,20,,,,,,,,
+N1,PP-0001,PT United Tractors,Dedicated UT – Jkt/Bdg,2026-10-18,12:00,Pick Up,Gudang Baru Bekasi,Jl. Raya Bekasi No. 1,Bekasi,-6.2349,106.9896,2026-10-18,13:00,20,DO-N1,1,CDD,Wingbox,4,9,,
+N1,,,,,,Drop Off,DC Cikarang Dry Port,Jl. Raya Bekasi No. 1,Bekasi,-6.2349,106.9896,2026-10-18,17:00,20,,,,,,,,

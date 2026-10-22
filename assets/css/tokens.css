@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap");
+/* Design tokens - Planning & Order Management (from dev-build-brief s2). */
+:root{
+  /* brand + neutral */
+  --navy:#2E3192; --navy-d:#242879; --navy-s:#ecedf9; --navy-m:#c7c9ec; --accent:#F5821F;
+  --bg:#f2f4f8; --surface:#ffffff; --line:#e4e7ef; --line2:#eef0f5; --thead:#f6f7fb; --rowh:#f8f9fd;
+  --text:#232a3a; --muted:#5f6675; --faint:#6b7382;
+  /* status: fill / soft / text-on-soft (AA) */
+  --green:#1f9d57; --green-s:#e6f5ec; --green-t:#166a3b;
+  --amber:#b9790f; --amber-s:#fbefda; --amber-t:#81540a;
+  --red:#d64343;   --red-s:#fbeaea;   --red-t:#a52a2a;
+  --slate:#5b6474; --slate-s:#eceff3; --slate-t:#4a5262;
+  /* type (px) */
+  --fs-11:11px; --fs-12:12px; --fs-13:13px; --fs-14:14px; --fs-16:16px; --fs-18:18px; --fs-22:22px;
+  /* spacing */
+  --s1:4px; --s2:8px; --s3:12px; --s4:16px; --s5:24px; --s6:32px; --s7:40px; --s8:48px;
+  /* radius */
+  --r-chip:6px; --r-ctl:9px; --r-card:11px; --r-dialog:14px; --r-pill:999px;
+  /* elevation: none at rest */
+  --e-menu:0 6px 18px rgba(20,28,60,.14); --e-dialog:0 16px 46px rgba(20,28,60,.24);
+  --scrim:rgba(20,28,60,.48); --focus:0 0 0 3px #c7c9ec;
+  /* shell */
+  --appbar-h:58px; --side-w:230px; --side-rail:72px; --head-h:64px;
+  /* derived neutrals used by components */
+  --ctl-line:#cdd3de; --chk-line:#9aa2b1; --dis-text:#8a92a1; --sk:#e6e9f0; --err-bg:#fffafa;
+  --ok-line:#b8e0c8; --warn-line:#ecd2a2; --err-line:#efc2c2; --red-line:#e6b3b3; --nav-text:#c3c6ec;
+  --on-fill:#ffffff; --line-strong:#c3cad6; --btn-hover:#fafbfd; --cb-dis-line:#c8ced9; --step-line:#b4bcc9;
+  --toast-ok:#8fd6ae; --toast-err:#f2a7a7; --toast-warn:#f2cf8a;
+  /* 10px only for the 16px notification badge and the info "i" glyph */
+  --fs-10:10px;
+}
+body{font:400 var(--fs-14)/1.5 "Plus Jakarta Sans",system-ui,sans-serif;color:var(--text);background:var(--bg)}
+:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+.tnum{font-variant-numeric:tabular-nums}

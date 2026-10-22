@@ -1,0 +1,3 @@
+Project,Route Group,Composition,Category,Karoseri,Capacity,Liq Vol/FB,Heijunka Interval,Notes
+ADM-SAP,Test Route Alpha,"PL-CBT, S001, S002, ADM-SNT",CDD,Box,22,3,120,Sample route A
+ADM-SAP,Test Route Beta,"S005, S006, ADM-SNT, PL-CBT",Fuso,Box,32,4.5,,Sample route B

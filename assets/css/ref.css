@@ -1,0 +1,53 @@
+/* Milkrun Reference (batch 3A): list header, filters, chips, BOM lines, import steps, plan snapshot panel. Tokens only. */
+.refhead{display:flex;gap:var(--s4);align-items:flex-start;flex-wrap:wrap}
+.refhead .desc{flex:1;min-width:0;color:var(--muted);font-size:var(--fs-13)}
+.refmeta{display:flex;gap:var(--s2);align-items:center;flex-wrap:wrap;margin-bottom:var(--s3);padding-bottom:var(--s3);border-bottom:1px solid var(--line2)}
+.reffilters{display:flex;gap:var(--s3);align-items:center;flex-wrap:wrap}
+.reffilters .w-search{width:240px}
+.reffilters .w-proj{width:180px}
+.reftbl table{table-layout:auto}
+.reftbl table th,.reftbl table td{padding-left:var(--s2);padding-right:var(--s2)}
+.reftbl table .thbtn{gap:var(--s1);white-space:normal;text-align:left;line-height:1.25}
+.reftbl table th{white-space:normal;vertical-align:bottom}
+.reftbl td.upd{line-height:1.3}
+.reftbl td.upd .at{display:block;color:var(--muted);font-size:var(--fs-11)}
+.reftbl .compo{max-width:260px}
+/* The Reference tables gained columns (P / L / T, Route Code, Shipping Volume). Text cells wrap so the table
+   still fits 1440 without an inner horizontal scroll; numbers and row actions stay on one line. */
+.reftbl tbody td{white-space:normal;overflow-wrap:break-word}
+.reftbl tbody td.num,.reftbl tbody td.act,.reftbl tbody td.nw{white-space:nowrap}
+/* composition chips */
+.chipbox{display:flex;flex-wrap:wrap;align-items:center;gap:var(--s2);padding:var(--s2);border:1px solid var(--ctl-line);border-radius:var(--r-ctl);min-height:var(--s7);background:var(--surface)}
+.chipbox.err{border-color:var(--red);background:var(--err-bg)}
+.rchip{display:inline-flex;align-items:center;gap:var(--s1);padding:var(--s1) var(--s2);border-radius:var(--r-chip);border:1px solid var(--navy-m);background:var(--navy-s);color:var(--navy);font-size:var(--fs-12);font-weight:600;cursor:grab;user-select:none}
+.rchip.cust{background:var(--amber-s);color:var(--amber-t);border-color:var(--warn-line)}
+.rchip.pool{background:var(--slate-s);color:var(--slate-t);border:1px dashed var(--line-strong);cursor:default}
+.rchip.dragging{opacity:.4}
+.rchip.over{outline:2px solid var(--navy);outline-offset:1px}
+.rchip .x{border:0;background:transparent;color:inherit;cursor:pointer;display:inline-flex;padding:0}
+.rchip .x:focus-visible{outline:2px solid var(--navy);outline-offset:1px}
+.refpath{color:var(--muted);font-size:var(--fs-12)}
+.refpath b{color:var(--text)}
+.chipadd{width:auto;min-width:200px}
+/* BOM lines */
+.bomhead,.bomline{display:grid;grid-template-columns:minmax(0,2fr) 90px 110px minmax(0,1.4fr) var(--s7);gap:var(--s2);align-items:start}
+.bomhead{color:var(--muted);font-size:var(--fs-12);font-weight:600;padding-bottom:var(--s1)}
+.bomline+.bomline{margin-top:var(--s2)}
+.bomline .sup{padding-top:var(--s2);color:var(--muted);font-size:var(--fs-13);min-height:var(--s7)}
+.bomline .field{margin:0}
+.ptl{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--s2)}
+.span2{grid-column:1/-1}
+.refform{display:grid;grid-template-columns:1fr 1fr;gap:var(--s4)}
+.refform .field{margin:0}
+.refcheck td.act{text-align:right}
+@media (max-width:720px){.refform{grid-template-columns:1fr}.bomhead{display:none}.bomline{grid-template-columns:1fr}}
+/* import dialog */
+.refstep{display:flex;align-items:center;gap:var(--s3);padding:var(--s2) var(--s3)}
+.referr{max-height:240px;overflow:auto;border:1px solid var(--line);border-radius:var(--r-ctl);padding:var(--s2) var(--s3);margin:0;list-style:none}
+.referr li{padding:var(--s1) 0;border-bottom:1px solid var(--line2);font-size:var(--fs-13)}
+.referr li:last-child{border-bottom:0}
+.referr b{color:var(--red-t)}
+/* plan snapshot panel */
+.snapbar{display:flex;align-items:center;gap:var(--s4);flex-wrap:wrap}
+.snapbar .k{color:var(--muted);font-size:var(--fs-12)}
+.snapbar .v{font-weight:600}
